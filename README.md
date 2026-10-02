@@ -1,24 +1,5 @@
 <p align="center">  
-  <a href="https://youtu.be/GKHazA8e2oQ">
-    <img alt="Global" src="https://i.ibb.co/GQ7DnnQ9/global.jpg">
-  </a>
-</p>
 
-----
-
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Typing SVG"/>
-</p>
-
-----
-----
-
-## Information
-
-<div align="center">
-<a href="https://github.com/GlobalTechInfo/GLOBAL-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GlobalTechInfo/GLOBAL-XMD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/GLOBAL-XMD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/GlobalTechInfo/GLOBAL-XMD?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/GLOBAL-XMD/issues"><img title="Issues" src="https://img.shields.io/github/issues/GlobalTechInfo/GLOBAL-XMD?label=Issues&color=success&style=flat-square"></a>
 <a href="https://github.com/GlobalTechInfo/GLOBAL-XMD/repo-size"><img title="RepoSize" src="https://img.shields.io/github/repo-size/GlobalTechInfo/GLOBAL-XMD?label=RepoSize&color=success&style=flat-square"></a>
   <a href="https://discord.gg/fZ7MVJM9sq">
   <img title="Join our Discord" src="https://img.shields.io/discord/1391898062494105752?label=Discord&logo=discord&logoColor=white&style=flat-square&color=7289DA" alt="Discord">
@@ -194,4 +175,4 @@ License: [Apache License](http://www.apache.org/licenses/)
 | --- | --- | --- |
 | [NazeDev](https://github.com/nazedev) | [Qasim Ali](https://github.com/GlobalTechInfo) |[WhiskeySockets](https://github.com/WhiskeySockets) |
 
-----
+--
