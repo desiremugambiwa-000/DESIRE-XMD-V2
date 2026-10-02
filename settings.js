@@ -14,7 +14,7 @@ global.owner = process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.split(',').ma
 
 global.packname = process.env.PACKNAME || 'BOT';
 global.author = process.env.AUTHOR || 'DESIRETechInfo';
-global.botname = process.env.BOT_NAME || 'DESIRE-XMD';
+global.botname = process.env.BOT_NAME || 'DESIRE-XMD-V2';
 global.listprefix = process.env.PREFIX ? process.env.PREFIX.split(',') : ['+','!','.'];
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆'];
 
